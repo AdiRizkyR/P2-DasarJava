@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Latihan06_MenampilkanKelipatan2Sampai20KecualiKelipatan6 {
+public class Latihan07_MenampilkanKelipatan2Sampai20KecualiKelipatan6 {
     public static void main(String[] args) {
         int i = 0;
         int x = 0;
